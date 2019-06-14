@@ -77,7 +77,6 @@ ExamActivity$activity <- factor(ExamActivity$activity,
 
 
 # Step 6 - Label the data set with descriptive variable names
-##############################################################################
 
 # get column names
 ExamActivityCols <- colnames(ExamActivity)
