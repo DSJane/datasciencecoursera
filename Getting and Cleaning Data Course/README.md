@@ -1,5 +1,5 @@
 # Getting and Cleaning Data Project
-Author: Jihan Wang <br />
+Author: Jane Wang <br />
 
 ## Goal of the Project
 The purpose of this project is to demonstrate your ability to collect, work with, and clean a data set. 
